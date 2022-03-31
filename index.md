@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+# This is the home page of Liuwei(刘威)
 
-You can use the [editor on GitHub](https://github.com/Wilmido/Wilmido.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Recent work
+Based on High-entropy alloys datas for screening electrocatalyst, build a regression model to predict OH* absorbed energy and feature engineering for data augmentation, click [here](https://github.com/Wilmido/HEA_selection) for more information.<br>
+Future plan: build a WGAN to mimic data generation.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Education Background
+Huazhong University of Science and Technology   2018-2022
+Department of Chemistry and Chemical Engineering
+GPA: 3.87
 
-```markdown
-Syntax highlighted code block
+## Research Experience
+Composed “Machine Learning for scanning High entropy alloy catalyst” in National Undergraduate Training Program for Innovation and Entrepreneurship as leader<br> 2021 .4 - present<br>
+A multiple label classification task
+Focus on data preprocessing, feature engineering,
+and Adversarial attack and defense
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+## Social Activities
 
-[Link](url) and ![Image](src)
-```
+2019. 3 - 2020. 6 <B>Calculus Lecturer of C.A.T(Chemistry Academic Team)</b>,answer questions for those who were not good at Calculus and help them for review
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Wilmido/Wilmido.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Honors and Certificates
+Honorary Certificate for Calculus Lecturer of C.A.T. 2020
 
-### Support or Contact
+CET-4：625 & CET-6：557
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+NCRE Certificate of level 3 awarded in 2021.03
