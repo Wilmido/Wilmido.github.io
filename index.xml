@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Wilmido&#39;s blog</title>
+    <link>https://wilmido.github.io/</link>
+    <description>Recent content on Wilmido&#39;s blog</description>
+    <generator>Hugo -- 0.126.1</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 21 May 2024 16:47:02 +0800</lastBuildDate>
+    <atom:link href="https://wilmido.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2</title>
+      <link>https://wilmido.github.io/posts/2/</link>
+      <pubDate>Tue, 21 May 2024 16:47:02 +0800</pubDate>
+      <guid>https://wilmido.github.io/posts/2/</guid>
+      <description>11</description>
+    </item>
+    <item>
+      <title>3D点云的安全与挑战</title>
+      <link>https://wilmido.github.io/posts/point_cloud_security/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://wilmido.github.io/posts/point_cloud_security/</guid>
+      <description>一、背景介绍 随着计算机图形学的快速发展和人们对现实世界信息需求的增加，传统的2D图像已经不能很好地满足人们的需求，因此人们开始将目光转向3D</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://wilmido.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://wilmido.github.io/about/</guid>
+      <description>刘 威 Education 硕士（推免生） 华中科技大学 2022.09 ~ 2025.06 网络空间安全学院 网络与信息安全 加权成绩 88.35 本科 华中科技大学 2018.09 ~ 2022.06 化学与化工学院 化学（拔尖） 加权成绩 87.98 Competitions ATEC</description>
+    </item>
+  </channel>
+</rss>
