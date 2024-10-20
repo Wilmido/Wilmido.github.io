@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Wilmido&#39;s blog</title>
-    <link>https://wilmido.github.io/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Wilmido&#39;s blog</description>
     <generator>Hugo -- 0.126.1</generator>
     <language>en-us</language>
-    <atom:link href="https://wilmido.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>3D点云的安全与挑战</title>
-      <link>https://wilmido.github.io/posts/point_cloud_security/</link>
+      <link>http://localhost:1313/posts/point_cloud_security/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://wilmido.github.io/posts/point_cloud_security/</guid>
+      <guid>http://localhost:1313/posts/point_cloud_security/</guid>
       <description>一、背景介绍 随着计算机图形学的快速发展和人们对现实世界信息需求的增加，传统的2D图像已经不能很好地满足人们的需求，因此人们开始将目光转向3D</description>
+    </item>
+    <item>
+      <title>旧电脑改造成NAS</title>
+      <link>http://localhost:1313/posts/nas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/nas/</guid>
+      <description>背景 马上要毕业了，想着把一些重要的数据和模型进行过备份。于是，打算用讲旧笔记本改造成nas。有下面的几点需求： WIFI联网(由于旧笔记本没有</description>
     </item>
   </channel>
 </rss>
