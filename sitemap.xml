@@ -10,6 +10,8 @@
   </url><url>
     <loc>https://wilmido.github.io/categories/</loc>
   </url><url>
+    <loc>https://wilmido.github.io/tags/nas/</loc>
+  </url><url>
     <loc>https://wilmido.github.io/posts/</loc>
   </url><url>
     <loc>https://wilmido.github.io/search/</loc>
@@ -17,5 +19,7 @@
     <loc>https://wilmido.github.io/tags/</loc>
   </url><url>
     <loc>https://wilmido.github.io/</loc>
+  </url><url>
+    <loc>https://wilmido.github.io/posts/nas/</loc>
   </url>
 </urlset>

@@ -4,7 +4,7 @@
     <title>Tags on Wilmido&#39;s blog</title>
     <link>https://wilmido.github.io/tags/</link>
     <description>Recent content in Tags on Wilmido&#39;s blog</description>
-    <generator>Hugo -- 0.126.1</generator>
+    <generator>Hugo -- 0.136.2</generator>
     <language>en-us</language>
     <atom:link href="https://wilmido.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -12,6 +12,13 @@
       <link>https://wilmido.github.io/tags/3d-point-cloud/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://wilmido.github.io/tags/3d-point-cloud/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>NAS</title>
+      <link>https://wilmido.github.io/tags/nas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://wilmido.github.io/tags/nas/</guid>
       <description></description>
     </item>
   </channel>
