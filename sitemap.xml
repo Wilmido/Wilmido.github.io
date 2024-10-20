@@ -2,36 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/tags/3d-point-cloud/</loc>
+    <loc>https://wilmido.github.io/tags/3d-point-cloud/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/point_cloud_security/</loc>
+    <loc>https://wilmido.github.io/posts/point_cloud_security/</loc>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://wilmido.github.io/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://wilmido.github.io/categories/</loc>
   </url><url>
-<<<<<<< HEAD
-    <loc>http://localhost:1313/tags/nas/</loc>
-=======
     <loc>https://wilmido.github.io/tags/nas/</loc>
   </url><url>
     <loc>https://wilmido.github.io/posts/</loc>
->>>>>>> cc6ab3ba590c839446aaa0161cfa473ff7662c8f
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://wilmido.github.io/search/</loc>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>https://wilmido.github.io/tags/</loc>
   </url><url>
-<<<<<<< HEAD
-    <loc>http://localhost:1313/tags/</loc>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-  </url><url>
-    <loc>http://localhost:1313/posts/nas/</loc>
-=======
     <loc>https://wilmido.github.io/</loc>
   </url><url>
     <loc>https://wilmido.github.io/posts/nas/</loc>
->>>>>>> cc6ab3ba590c839446aaa0161cfa473ff7662c8f
   </url>
 </urlset>
