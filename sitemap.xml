@@ -10,28 +10,16 @@
   </url><url>
     <loc>https://wilmido.github.io/categories/</loc>
   </url><url>
-<<<<<<< HEAD
-    <loc>http://localhost:1313/tags/nas/</loc>
-=======
     <loc>https://wilmido.github.io/tags/nas/</loc>
   </url><url>
     <loc>https://wilmido.github.io/posts/</loc>
->>>>>>> 938f3f61a5316c8c184571517a6d2d4e1ffb2361
   </url><url>
     <loc>https://wilmido.github.io/search/</loc>
   </url><url>
     <loc>https://wilmido.github.io/tags/</loc>
   </url><url>
-<<<<<<< HEAD
-    <loc>http://localhost:1313/tags/</loc>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-  </url><url>
-    <loc>http://localhost:1313/posts/nas/</loc>
-=======
     <loc>https://wilmido.github.io/</loc>
   </url><url>
     <loc>https://wilmido.github.io/posts/nas/</loc>
->>>>>>> 938f3f61a5316c8c184571517a6d2d4e1ffb2361
   </url>
 </urlset>

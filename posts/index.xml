@@ -4,24 +4,13 @@
     <title>Posts on Wilmido&#39;s blog</title>
     <link>https://wilmido.github.io/posts/</link>
     <description>Recent content in Posts on Wilmido&#39;s blog</description>
-    <generator>Hugo -- 0.126.1</generator>
+    <generator>Hugo -- 0.136.2</generator>
     <language>en-us</language>
     <atom:link href="https://wilmido.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>3D点云的安全与挑战</title>
       <link>https://wilmido.github.io/posts/point_cloud_security/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-<<<<<<< HEAD
-      <guid>http://localhost:1313/posts/point_cloud_security/</guid>
-      <description>一、背景介绍 随着计算机图形学的快速发展和人们对现实世界信息需求的增加，传统的2D图像已经不能很好地满足人们的需求，因此人们开始将目光转向3D</description>
-    </item>
-    <item>
-      <title>旧电脑改造成NAS</title>
-      <link>http://localhost:1313/posts/nas/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/nas/</guid>
-      <description>背景 马上要毕业了，想着把一些重要的数据和模型进行过备份。于是，打算用讲旧笔记本改造成nas。有下面的几点需求： WIFI联网(由于旧笔记本没有</description>
-=======
       <guid>https://wilmido.github.io/posts/point_cloud_security/</guid>
       <description>&lt;h1 id=&#34;一背景介绍&#34;&gt;一、背景介绍&lt;/h1&gt;
 &lt;p&gt;随着计算机图形学的快速发展和人们对现实世界信息需求的增加，传统的2D图像已经不能很好地满足人们的需求，因此人们开始将目光转向3D数据。3D数据补充了2D图像，为更好地了解周围环境提供了机会。3D数据有许多数据格式，例如：深度图像(Depth image)、点云(Point cloud)、网格 (Mesh) 以及体素 (Voxel grid)。点云是最常用的数据格式之一，它保留了三维空间中的原始几何信息，并由大量的点组成，每个点都具有空间位置。
@@ -44,7 +33,6 @@
 &lt;/ul&gt;
 &lt;h1 id=&#34;过程&#34;&gt;过程&lt;/h1&gt;
 &lt;p&gt;整个过程其实还是比较曲折的。来来回回弄了好几次，最后才狠下心来一条路走到底。&lt;/p&gt;</description>
->>>>>>> 938f3f61a5316c8c184571517a6d2d4e1ffb2361
     </item>
   </channel>
 </rss>
