@@ -2,7 +2,6 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>NAS on Wilmido&#39;s blog</title>
-<<<<<<< HEAD
     <link>http://localhost:1313/tags/nas/</link>
     <description>Recent content in NAS on Wilmido&#39;s blog</description>
     <generator>Hugo -- 0.126.1</generator>
@@ -14,28 +13,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/nas/</guid>
       <description>背景 马上要毕业了，想着把一些重要的数据和模型进行过备份。于是，打算用讲旧笔记本改造成nas。有下面的几点需求： WIFI联网(由于旧笔记本没有</description>
-=======
-    <link>https://wilmido.github.io/tags/nas/</link>
-    <description>Recent content in NAS on Wilmido&#39;s blog</description>
-    <generator>Hugo -- 0.136.2</generator>
-    <language>en-us</language>
-    <atom:link href="https://wilmido.github.io/tags/nas/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>旧电脑改造成NAS</title>
-      <link>https://wilmido.github.io/posts/nas/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://wilmido.github.io/posts/nas/</guid>
-      <description>&lt;h1 id=&#34;背景&#34;&gt;背景&lt;/h1&gt;
-&lt;p&gt;马上要毕业了，想着把一些重要的数据和模型进行过备份。于是，打算用讲旧笔记本改造成nas。有下面的几点需求：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;WIFI联网(由于旧笔记本没有网口，以及偷懒)&lt;/li&gt;
-&lt;li&gt;Zerotier内网穿透(无论是在寝室、实验室还是在家都可以访问NAS)&lt;/li&gt;
-&lt;li&gt;SSD做缓存盘加速读写
-得益于群晖优秀的系统，SSD做缓存盘非常简单。最后NAS也是成功实现了我预期的需求。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;过程&#34;&gt;过程&lt;/h1&gt;
-&lt;p&gt;整个过程其实还是比较曲折的。来来回回弄了好几次，最后才狠下心来一条路走到底。&lt;/p&gt;</description>
->>>>>>> cc6ab3ba590c839446aaa0161cfa473ff7662c8f
     </item>
   </channel>
 </rss>
