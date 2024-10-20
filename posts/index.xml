@@ -2,15 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Wilmido&#39;s blog</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://wilmido.github.io/posts/</link>
     <description>Recent content in Posts on Wilmido&#39;s blog</description>
     <generator>Hugo -- 0.126.1</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://wilmido.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>3D点云的安全与挑战</title>
-      <link>http://localhost:1313/posts/point_cloud_security/</link>
+      <link>https://wilmido.github.io/posts/point_cloud_security/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+<<<<<<< HEAD
       <guid>http://localhost:1313/posts/point_cloud_security/</guid>
       <description>一、背景介绍 随着计算机图形学的快速发展和人们对现实世界信息需求的增加，传统的2D图像已经不能很好地满足人们的需求，因此人们开始将目光转向3D</description>
     </item>
@@ -20,6 +21,30 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/nas/</guid>
       <description>背景 马上要毕业了，想着把一些重要的数据和模型进行过备份。于是，打算用讲旧笔记本改造成nas。有下面的几点需求： WIFI联网(由于旧笔记本没有</description>
+=======
+      <guid>https://wilmido.github.io/posts/point_cloud_security/</guid>
+      <description>&lt;h1 id=&#34;一背景介绍&#34;&gt;一、背景介绍&lt;/h1&gt;
+&lt;p&gt;随着计算机图形学的快速发展和人们对现实世界信息需求的增加，传统的2D图像已经不能很好地满足人们的需求，因此人们开始将目光转向3D数据。3D数据补充了2D图像，为更好地了解周围环境提供了机会。3D数据有许多数据格式，例如：深度图像(Depth image)、点云(Point cloud)、网格 (Mesh) 以及体素 (Voxel grid)。点云是最常用的数据格式之一，它保留了三维空间中的原始几何信息，并由大量的点组成，每个点都具有空间位置。
+&lt;img loading=&#34;lazy&#34; src=&#34;image/1716219007233.png#center&#34; alt=&#34;1716219007233&#34;  /&gt;
+
+尽管深度学习在计算机视觉任务中取得了巨大成功，但对抗攻击的存在揭示了其脆弱性。此外，对抗性攻击为深度学习模型的评估和改进提供了一种强有力的手段，通过模拟攻击场景来识别模型的潜在弱点，并据此设计更加健壮的模型架构。随着3D点云数据在自动驾驶汽车、医疗保健、机器人技术等多个领域的广泛应用，确保这些系统在面对恶意攻击时的安全性和鲁棒性变得尤为重要。点云对抗攻击是其中一个日益受到关注的研究课题。点云对抗性样本在3D空间中不易被识别，但对模型的预测结果却有显著的影响。与2D图像的对抗攻击相比，点云的3D特性使得对抗样本的生成和检测更为复杂。图像和点云的对抗样本有以下几个主要区别：&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>旧电脑改造成NAS</title>
+      <link>https://wilmido.github.io/posts/nas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://wilmido.github.io/posts/nas/</guid>
+      <description>&lt;h1 id=&#34;背景&#34;&gt;背景&lt;/h1&gt;
+&lt;p&gt;马上要毕业了，想着把一些重要的数据和模型进行过备份。于是，打算用讲旧笔记本改造成nas。有下面的几点需求：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;WIFI联网(由于旧笔记本没有网口，以及偷懒)&lt;/li&gt;
+&lt;li&gt;Zerotier内网穿透(无论是在寝室、实验室还是在家都可以访问NAS)&lt;/li&gt;
+&lt;li&gt;SSD做缓存盘加速读写
+得益于群晖优秀的系统，SSD做缓存盘非常简单。最后NAS也是成功实现了我预期的需求。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;过程&#34;&gt;过程&lt;/h1&gt;
+&lt;p&gt;整个过程其实还是比较曲折的。来来回回弄了好几次，最后才狠下心来一条路走到底。&lt;/p&gt;</description>
+>>>>>>> 938f3f61a5316c8c184571517a6d2d4e1ffb2361
     </item>
   </channel>
 </rss>
